@@ -1,5 +1,7 @@
 # Weather-App
 
+**Live Demo:** [Weather App](https://atharva090211.github.io/Weather-App/)
+
 ## Overview
 
 The Weather Application is a simple web-based tool that allows users to retrieve the current weather information for a specific location. It provides details such as temperature, humidity, and wind speed.
